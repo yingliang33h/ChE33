@@ -8,3 +8,5 @@ test local branch
 test stash
 
 test  push
+
+test merge
